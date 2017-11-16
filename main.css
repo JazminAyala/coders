@@ -1,0 +1,35 @@
+#contenedor{
+    background-color: grey;
+    margin-top: 25px;
+    width: 90%;
+    height: 30%;
+/*margin:50px auto 10px;*/
+    /*position: relative;*/
+  
+}
+h1{
+    position: relative;
+  /* display: inline-block;*/
+  /*left: 20px;*/
+  padding: 5px;
+  font-family: Courier New, Courier, monospace;
+    
+ /* width: 15%;
+    height: 10%;*/
+}
+
+hr{
+    background-color:black ;
+    margin-left: 10px;
+    width: 120px;
+
+}
+.coder1{
+    width: 100px;
+    height: 110px;
+
+}
+.coder2{
+    width: 100px;
+    height: 110px ;
+}
